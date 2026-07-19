@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Fone Bluetooth 60% OFF",
+    "store": "Shopee",
+    "video_url": "https://sample-videos.com/video321/mp4/240/big_buck_bunny_240p_1mb.mp4",
+    "thumbnail_url": "https://via.placeholder.com/300",
+    "price": "R$ 79,90",
+    "original_price": "R$ 199,90",
+    "discount": "60% OFF",
+    "affiliate_link": "https://shopee.com.br"
+  },
+  {
+    "title": "Notebook Dell 15% OFF",
+    "store": "Mercado Livre",
+    "video_url": "https://sample-videos.com/video321/mp4/240/big_buck_bunny_240p_1mb.mp4",
+    "thumbnail_url": "https://via.placeholder.com/300",
+    "price": "R$ 2.999,00",
+    "original_price": "R$ 3.500,00",
+    "discount": "15% OFF",
+    "affiliate_link": "https://mercadolivre.com.br"
+  }
+]
